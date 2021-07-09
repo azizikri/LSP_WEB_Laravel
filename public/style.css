@@ -1,0 +1,66 @@
+body{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    font-family: Constantia;
+}
+
+li{
+    display: inline-flex;
+    justify-content: center;
+    list-style: none;
+    padding: 1px;
+}
+
+.header{
+    background-color: aquamarine;
+    padding: 5px;
+}
+
+.navbar{
+    background-color: whitesmoke;
+    padding: 1px;
+}
+
+.sidebar{
+    position: fixed;
+    width: 200px;
+    height: 100%;
+    background-color: aquamarine;
+}
+
+.container{
+    padding-left: 215px;
+}
+
+.footer{
+    position: absolute;
+    padding: 10px;
+    background-color: aquamarine;
+    bottom: 0;
+    width: 100%;
+    display: inline-flex;
+    justify-content: center;
+}
+.input{
+    width: 180px;
+    height: 25px;
+    margin: 5px;
+}
+
+.form{
+    margin-bottom: 10px;
+}
+
+.btn{
+    background-color: whitesmoke;
+    border: 0;
+    height: 30px;
+    margin: 5px;
+    width: 180px;
+}
+
+.gambar{
+    margin-top: 300px;
+}
+
